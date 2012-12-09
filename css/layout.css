@@ -1,0 +1,15 @@
+body {
+font-family:arial;
+background-color: #ffffff;
+color: #000000;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+#container {
+	width: 980px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+}
